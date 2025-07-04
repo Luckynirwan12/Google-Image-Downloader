@@ -1,4 +1,4 @@
-# Google-Image-Downloader
+# Google Image Downloader
 ## 🔍 Description
 This script uses the `google_images_search` Python library to automate the process of searching and downloading images from Google Images using the Google Custom Search API.
 
